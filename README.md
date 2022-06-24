@@ -2,5 +2,8 @@
 
 Desafio do Projeto sobre Git/Github
 
+Primeira mudança!
+
 ## Links Úteis
-[Sintaxe básica Markdown](https://github.com/gustavograeve/primeiro-repo-dio)
+
+[Página principal](https://github.com/gustavograeve/primeiro-repo-dio)
