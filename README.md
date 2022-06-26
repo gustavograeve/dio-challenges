@@ -1,11 +1,8 @@
-# Repositório de Desafio do Projeto sobre Git/Github
+# Repositório de Desafios do Projetos
 
-Desafio do Projeto sobre Git/Github
+Este é um repositório para armazenar todos os desafios de projetos da plataforma DIO.
 
-Primeira mudança!
-
-Segunda mudança (preparando para sincronização local)
+(Bootcamp Impulso Javascript Evolution).
 
 ## Links Úteis
-
-[Página principal](https://github.com/gustavograeve/primeiro-repo-dio)
+[Plataforma DIO](https://web.dio.me/track/impulso-javascript-evolution)
