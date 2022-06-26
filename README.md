@@ -1,4 +1,4 @@
-# Repositório de Desafios do Projetos
+# Repositório de Desafios de Projetos
 
 Este é um repositório para armazenar todos os desafios de projetos da plataforma DIO.
 
